@@ -1,0 +1,305 @@
+{
+    "menu": {
+      "bebidasFrias": [
+        {
+          "nombre": "Café Helado",
+          "imagen": "https://shorturl.at/05uCv",
+          "precio": 14000,
+          "descripcion": "Café recién hecho servido con hielo."
+        },
+        {
+          "nombre": "Limonada",
+          "imagen": "https://images.unsplash.com/photo-1585144578240-1ec0c5f1a208",
+          "precio": 8000,
+          "descripcion": "Limonada refrescante hecha con limones frescos."
+        },
+        {
+          "nombre": "Té Helado",
+          "imagen": "https://images.unsplash.com/photo-1598515213694-132cfdbd02c6",
+          "precio": 10000,
+          "descripcion": "Té negro helado con un toque de limón."
+        },
+        {
+          "nombre": "Batido de Fresa",
+          "imagen": "https://images.unsplash.com/photo-1560807707-8cc77767d783",
+          "precio": 16000,
+          "descripcion": "Batido cremoso de fresas frescas."
+        },
+        {
+          "nombre": "Jugo de Naranja",
+          "imagen": "https://images.unsplash.com/photo-1570787452222-4b67c2f8b1b9",
+          "precio": 12000,
+          "descripcion": "Jugo de naranja recién exprimido."
+        },
+        {
+          "nombre": "Agua Mineral",
+          "imagen": "https://images.unsplash.com/photo-1579736217761-749d23e0b1d2",
+          "precio": 6000,
+          "descripcion": "Agua mineral con gas."
+        },
+        {
+          "nombre": "Smoothie de Mango",
+          "imagen": "https://images.unsplash.com/photo-1611175694989-d61494d2a95e",
+          "precio": 18000,
+          "descripcion": "Smoothie de mango fresco y yogurt."
+        },
+        {
+          "nombre": "Cola",
+          "imagen": "https://images.unsplash.com/photo-1582337835705-d3c2d5a7d69f",
+          "precio": 8000,
+          "descripcion": "Bebida gaseosa clásica."
+        }
+      ],
+      "bebidasCalientes": [
+        {
+          "nombre": "Espresso",
+          "imagen": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+          "precio": 8000,
+          "descripcion": "Shot de espresso fuerte y rico."
+        },
+        {
+          "nombre": "Té Verde",
+          "imagen": "https://images.unsplash.com/photo-1527799820374-fb6a55b0b253",
+          "precio": 6000,
+          "descripcion": "Hojas de té verde orgánico infusionadas."
+        },
+        {
+          "nombre": "Café Americano",
+          "imagen": "https://images.unsplash.com/photo-1517686469429-bf7f37bbf898",
+          "precio": 8000,
+          "descripcion": "Café negro largo."
+        },
+        {
+          "nombre": "Cappuccino",
+          "imagen": "https://images.unsplash.com/photo-1587248722859-f1d94cc95a3b",
+          "precio": 12000,
+          "descripcion": "Café con leche espumosa."
+        },
+        {
+          "nombre": "Té de Manzanilla",
+          "imagen": "https://images.unsplash.com/photo-1504900706634-2d6b5b5f67c6",
+          "precio": 6000,
+          "descripcion": "Infusión relajante de manzanilla."
+        },
+        {
+          "nombre": "Chocolate Caliente",
+          "imagen": "https://images.unsplash.com/photo-1612197367901-365ef2ec7d71",
+          "precio": 12000,
+          "descripcion": "Chocolate caliente cremoso."
+        },
+        {
+          "nombre": "Latte",
+          "imagen": "https://images.unsplash.com/photo-1598026693912-213c29b86e49",
+          "precio": 12000,
+          "descripcion": "Café con leche."
+        },
+        {
+          "nombre": "Té Chai",
+          "imagen": "https://images.unsplash.com/photo-1587486913044-fdc57b7a4308",
+          "precio": 10000,
+          "descripcion": "Té especiado con leche."
+        }
+      ],
+      "sopas": [
+        {
+          "nombre": "Sopa de Tomate",
+          "imagen": "https://images.unsplash.com/photo-1622020457213-e4a307f76c9c",
+          "precio": 16000,
+          "descripcion": "Sopa de tomate cremosa con un toque de albahaca."
+        },
+        {
+          "nombre": "Sopa de Pollo con Fideos",
+          "imagen": "https://images.unsplash.com/photo-1576163463148-55f085399962",
+          "precio": 20000,
+          "descripcion": "Sopa clásica de pollo con fideos y vegetales."
+        },
+        {
+          "nombre": "Sopa de Verduras",
+          "imagen": "https://images.unsplash.com/photo-1556910103-1c6d19546d2f",
+          "precio": 18000,
+          "descripcion": "Sopa ligera de verduras frescas."
+        },
+        {
+          "nombre": "Sopa de Lentejas",
+          "imagen": "https://images.unsplash.com/photo-1576765607925-6dc8c2a0e006",
+          "precio": 20000,
+          "descripcion": "Sopa nutritiva de lentejas con especias."
+        },
+        {
+          "nombre": "Sopa de Mariscos",
+          "imagen": "https://images.unsplash.com/photo-1617633962372-3e0b90a037d2",
+          "precio": 24000,
+          "descripcion": "Sopa rica de mariscos variados."
+        },
+        {
+          "nombre": "Sopa de Calabaza",
+          "imagen": "https://images.unsplash.com/photo-1562967914-da59f9dbd05e",
+          "precio": 18000,
+          "descripcion": "Sopa cremosa de calabaza con un toque de nuez moscada."
+        },
+        {
+          "nombre": "Sopa de Cebolla",
+          "imagen": "https://images.unsplash.com/photo-1581619423361-7a7d771b0b38",
+          "precio": 22000,
+          "descripcion": "Sopa de cebolla gratinada."
+        },
+        {
+          "nombre": "Sopa Minestrone",
+          "imagen": "https://images.unsplash.com/photo-1604145557615-0d9e8c6f4fa7",
+          "precio": 20000,
+          "descripcion": "Sopa italiana con verduras, pasta y frijoles."
+        }
+      ],
+      "platosDelDia": [
+        {
+          "nombre": "Salmón a la Parrilla",
+          "imagen": "https://images.unsplash.com/photo-1612874749368-92a7e514c1ec",
+          "precio": 48000,
+          "descripcion": "Filete de salmón a la parrilla con vegetales al vapor."
+        },
+        {
+          "nombre": "Pasta Primavera",
+          "imagen": "https://images.unsplash.com/photo-1605478545362-5d2a4a9514cc",
+          "precio": 40000,
+          "descripcion": "Pasta con verduras frescas en una salsa ligera."
+        },
+        {
+          "nombre": "Pollo Asado",
+          "imagen": "https://images.unsplash.com/photo-1620138112869-b3259775910f",
+          "precio": 44000,
+          "descripcion": "Pollo asado con hierbas y papas al horno."
+        },
+        {
+          "nombre": "Estofado de Res",
+          "imagen": "https://images.unsplash.com/photo-1606330806600-4181b18f9474",
+          "precio": 52000,
+          "descripcion": "Estofado de res con zanahorias y papas."
+        },
+        {
+          "nombre": "Enchiladas de Queso",
+          "imagen": "https://images.unsplash.com/photo-1601315487708-d21c8fa6d284",
+          "precio": 36000,
+          "descripcion": "Enchiladas rellenas de queso con salsa roja."
+        },
+        {
+          "nombre": "Paella",
+          "imagen": "https://images.unsplash.com/photo-1607870626670-1edca4e4fbb6",
+          "precio": 56000,
+          "descripcion": "Paella tradicional con mariscos y pollo."
+        },
+        {
+          "nombre": "Risotto de Champiñones",
+          "imagen": "https://images.unsplash.com/photo-1552405805-2c5176899d4a",
+          "precio": 48000,
+          "descripcion": "Risotto cremoso con champiñones y parmesano."
+        },
+        {
+          "nombre": "Tacos de Pescado",
+          "imagen": "https://images.unsplash.com/photo-1552332386-f8dd00dc2f9b",
+          "precio": 38000,
+          "descripcion": "Tacos de pescado fresco con salsa de col."
+        }
+      ],
+      "platosALaCarta": [
+        {
+          "nombre": "Hamburguesa Clásica",
+          "imagen": "https://images.unsplash.com/photo-1578926288948-e6d2c4a3fb77",
+          "precio": 25000,
+          "descripcion": "Hamburguesa con queso, lechuga, tomate y cebolla."
+        },
+        {
+          "nombre": "Pizza Margarita",
+          "imagen": "https://images.unsplash.com/photo-1565299507177-b0ac66763828",
+          "precio": 30000,
+          "descripcion": "Pizza clásica con salsa de tomate y mozzarella."
+        },
+        {
+          "nombre": "Ensalada César",
+          "imagen": "https://images.unsplash.com/photo-1572448852263-25c6435e2403",
+          "precio": 20000,
+          "descripcion": "Ensalada César con pollo a la parrilla."
+        },
+        {
+          "nombre": "Bistec a la Parrilla",
+          "imagen": "https://images.unsplash.com/photo-1589923188900-78526fdf3a3c",
+          "precio": 60000,
+          "descripcion": "Bistec jugoso a la parrilla con papas fritas."
+        },
+        {
+          "nombre": "Wrap de Pollo",
+          "imagen": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0",
+          "precio": 30000,
+          "descripcion": "Wrap de pollo a la parrilla con verduras y salsa ranch."
+        },
+        {
+          "nombre": "Sándwich de Atún",
+          "imagen": "https://images.unsplash.com/photo-1620806988093-d5d56395e3c6",
+          "precio": 26000,
+          "descripcion": "Sándwich de atún con lechuga y tomate en pan integral."
+        },
+        {
+          "nombre": "Quesadilla de Pollo",
+          "imagen": "https://images.unsplash.com/photo-1606131732480-8da298f2b5c0",
+          "precio": 28000,
+          "descripcion": "Quesadilla rellena de pollo y queso fundido."
+        },
+        {
+          "nombre": "Spaghetti a la Boloñesa",
+          "imagen": "https://images.unsplash.com/photo-1562967914-da59f9dbd05e",
+          "precio": 40000,
+          "descripcion": "Spaghetti con salsa de carne boloñesa."
+        }
+      ],
+      "menuInfantil": [
+        {
+          "nombre": "Nuggets de Pollo",
+          "imagen": "https://images.unsplash.com/photo-1620806988093-d5d56395e3c6",
+          "precio": 20000,
+          "descripcion": "Crujientes nuggets de pollo servidos con papas fritas."
+        },
+        {
+          "nombre": "Macarrones con Queso",
+          "imagen": "https://images.unsplash.com/photo-1618197441670-4db022ec23f2",
+          "precio": 18000,
+          "descripcion": "Macarrones cremosos con queso."
+        },
+        {
+          "nombre": "Mini Pizza",
+          "imagen": "https://images.unsplash.com/photo-1576179421236-e9e1a9b3fe43",
+          "precio": 20000,
+          "descripcion": "Mini pizza con salsa de tomate y queso."
+        },
+        {
+          "nombre": "Hot Dog",
+          "imagen": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90",
+          "precio": 16000,
+          "descripcion": "Hot dog con ketchup y mostaza."
+        },
+        {
+          "nombre": "Pasta con Salsa de Tomate",
+          "imagen": "https://images.unsplash.com/photo-1573988475212-9a5bd9ab6b73",
+          "precio": 18000,
+          "descripcion": "Pasta con una salsa de tomate suave."
+        },
+        {
+          "nombre": "Palitos de Pescado",
+          "imagen": "https://images.unsplash.com/photo-1562162204-67d2f6a3b37f",
+          "precio": 22000,
+          "descripcion": "Palitos de pescado crujientes con salsa tártara."
+        },
+        {
+          "nombre": "Hamburguesa Infantil",
+          "imagen": "https://images.unsplash.com/photo-1579705940273-40b929f6a884",
+          "precio": 20000,
+          "descripcion": "Hamburguesa pequeña con queso y papas fritas."
+        },
+        {
+          "nombre": "Quesadilla de Queso",
+          "imagen": "https://images.unsplash.com/photo-1598515213694-132cfdbd02c6",
+          "precio": 18000,
+          "descripcion": "Quesadilla de queso derretido."
+        }
+      ]
+    }
+  }
+  
